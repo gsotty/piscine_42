@@ -1,7 +1,0 @@
-Credentials cache: API:3B769079-1B1B-4235-AE24-E5743C394734
-        Principal: gsotty@42.FR
-
-  Issued                Expires               Principal
-Aug 30 09:31:26 2016  Sep  6 09:31:26 2016  krbtgt/42.FR@42.FR
-Aug 30 09:58:58 2016  Sep  6 09:31:26 2016  host/vgs-fn1.42.fr@42.FR
-Aug 30 11:02:39 2016  Sep  6 09:31:26 2016  ldap/ldap-proxy.42.fr@42.FR
